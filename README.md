@@ -1,6 +1,6 @@
-# Calclutur
+# calculator
 
-**Calclutur** is a simple command-line calculator built with Python.  
+**calculator** is a simple command-line calculator built with Python.  
 It supports basic arithmetic operations including addition, subtraction, multiplication, and division.
 
 ---
